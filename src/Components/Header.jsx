@@ -1,4 +1,4 @@
- function Header({ text }) {
+function Header({ text }) {
   return (
     <header>
       <div className="container">
